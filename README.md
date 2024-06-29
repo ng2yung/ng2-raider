@@ -10,6 +10,9 @@
 
 **Only works on PC/Laptop**
 
+# How to make the UI look cleaner
+**Right-Click the folder then open it in terminal, in the terminal, click the arrow facing down at the top of the window. Press "Command Promt", then type "ng2.exe" and your done.**
+
 # How to use:
 ```
 Download the ZIP
