@@ -1,6 +1,6 @@
 ![image](https://github.com/ng2yung/ng2-raider/blob/main/ng2.png?raw=true)
 # ng2 raider
-**A Discord Raider/MultiTool (README Inspired Off "Vanish Raider)**
+**A Discord Raider/MultiTool (README Inspired Off "Vanish Raider")**
 
 # Disclaimer
 **THIS IS FOR EDUCATIONAL PURPOSES ONLY USE AT OWN RISK, ANYTHING YOU DO WITH THIS CODE IS YOUR FAULT/PROBLEM**
