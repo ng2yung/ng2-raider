@@ -1,5 +1,5 @@
 ![image]()
-# VanishRaider
+# ng2 Discord Multitool
 **A Discord Raider/MultiTool (README Inspired Off "Vanish Raider)"
 
 # Disclaimer
