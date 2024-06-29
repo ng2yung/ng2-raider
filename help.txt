@@ -1,0 +1,3 @@
+COMMON ISSUES:
+
+Terminal Instantly Closing - Open terminal and type cd *location of ng2 folder* then press Enter, after that type ng2.exe and it should tell you the error. Copy it and contact a helper on the discord and they will do their best to assist you.
