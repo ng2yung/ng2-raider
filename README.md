@@ -1,4 +1,4 @@
-![image]()
+![image](https://github.com/ng2yung/ng2-raider/blob/main/ng2.png?raw=true)
 # ng2 raider
 **A Discord Raider/MultiTool (README Inspired Off "Vanish Raider)**
 
