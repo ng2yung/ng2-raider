@@ -29,6 +29,7 @@ TOKEN3
 etc...
 
 Run start.bat
+Open ng2.exe
 
 Complete. If the terminal instantly closes, read help.txt or ask someone for help in the Discord Server.
 ```
