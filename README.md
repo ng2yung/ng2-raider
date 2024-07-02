@@ -6,7 +6,7 @@
 **[CLICK ME](https://discord.gg/jqVY8RYxeF)**
 
 # YouTube:
-**https://www.youtube.com/@ng2_toolz**
+**[CLICK ME](https://www.youtube.com/@ng2_toolz)**
 
 # Disclaimer
 **THIS IS FOR EDUCATIONAL PURPOSES ONLY USE AT OWN RISK, ANYTHING YOU DO WITH THIS CODE IS YOUR FAULT/PROBLEM**
