@@ -3,7 +3,7 @@
 **A Discord Raider/MultiTool (README Inspired Off "Vanish Raider")**
 
 # Discord Server:
-**https://discord.gg/GRu4m9nBpf**
+**[CLICK ME](https://discord.gg/jqVY8RYxeF)**
 
 # YouTube:
 **https://www.youtube.com/@ng2_toolz**
